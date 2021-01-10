@@ -1,6 +1,6 @@
 # 📒 플랜잇(PLAN IT)
 
-<img src="img/플랜잇_로고.png" alt="플랜잇_로고" style="zoom:80%;" />
+<center><img src="img/플랜잇_로고.png" alt="플랜잇_로고" style="zoom:80%;" /> </center>
 
 ![플랜잇_텍스트](/img/플랜잇_텍스트.png)
 
