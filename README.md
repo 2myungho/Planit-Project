@@ -41,15 +41,15 @@
 
 #### 1) 아키텍처 설계
 
-![아키텍처 설계](C:\Users\82108\LMH\project\README\Project\프로젝트_GIF\아키텍처 설계.png)
+<img src="img/아키텍처 설계.png" alt="플랜잇_로고" style="float:left" />
 
 
 
 #### 2) 프로젝트 구조
 
-![프론트엔드 구조](C:\Users\82108\LMH\project\README\Project\프로젝트_GIF\프론트엔드 구조.jpg) 		  ![백엔드 구조](C:\Users\82108\LMH\project\README\Project\프로젝트_GIF\백엔드 구조.jpg)
+<img src="img/프론트엔드 구조.jpg" alt="플랜잇_로고" /> 		  <img src="img/백엔드 구조.jpg" alt="플랜잇_로고" />
 
-##### 					(좌) 프론트엔드 서비스 구조 																		(우) 백엔드 서비스 구조
+##### 										(좌) 프론트엔드 서비스 구조 																		(우) 백엔드 서비스 구조
 
 
 
